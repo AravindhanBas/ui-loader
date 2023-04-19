@@ -1,18 +1,5 @@
 {
   "name": "@aravindhanbas/ui-loader",
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/@aravindhanbas"
-  },
-  "version": "2.0.0",
-  "main": "index.js",
-  "scripts": {
-    "release": "standard-version && git push --follow-tags && npm publish"
-  },
-  "devDependencies": {
-    "@tsconfig/react-native": "^2.0.3",
-    "@types/react": "^18.0.37",
-    "react": "^18.2.0",
-    "react-native": "^0.71.6",
-    "standard-version": "^9.5.0"
-  }
+  "version": "0.0.0",
+  "license": "ISC"
 }
