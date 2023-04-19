@@ -1,5 +1,8 @@
 {
   "name": "@aravindhanbas/ui-loader",
   "version": "0.0.0",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "@tsconfig/react-native": "^3.0.0"
+  }
 }
