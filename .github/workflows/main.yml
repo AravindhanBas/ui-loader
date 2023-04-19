@@ -1,8 +1,6 @@
 name: Node.js Package
 on:
-  push:
-    branches:
-        - dummy
+  workflow_dispatch:
 
 jobs:
   publish-gpr:
