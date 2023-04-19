@@ -1,9 +1,8 @@
 {
-  "name": "@aravindhanbas/ui-loader",
+  "name": "ui-loader",
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
+    "registry": "https://npm.pkg.github.com/@aravindhanBas"
   },
-  "repository": "git://github.com/aravindhanBas/ui-loader",
   "version": "1.2.0",
   "main": "index.js",
   "scripts": {
