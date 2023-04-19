@@ -1,5 +1,5 @@
 {
-  "name": "ui-loader",
+  "name": "@AravindhanBas/ui-loader",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/@AravindhanBas"
   },
